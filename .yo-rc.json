@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "MyTwentyOnePoints",
+    "packageName": "org.josephalba313.app",
+    "packageFolder": "org/josephalba313/app",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NDNkZDc3MmQ5MzkwNWZkNWM5ZmNjOTgxYjAyOTdjODZkMDU5MDA2Y2ExMDg4MTU3NzllZWMwMGQ3YTExOTg1OWQyOGY4N2E1YzI0NGE5MDA2MDljZDRjM2I5OTkwYjJjZTRiYTRiZWYyNWE3Y2VkZjQ4NTEyOTY1OGIxODJkOWQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "josephalba313",
+  "repository-name": "my-twenty-one-points"
+}
