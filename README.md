@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/josephalba3130889/My%20Twenty%20One%20Points/_apis/build/status/josephalba313.my-twenty-one-points?branchName=master)](https://dev.azure.com/josephalba3130889/My%20Twenty%20One%20Points/_build/latest?definitionId=1&branchName=master)
 # MyTwentyOnePoints
 
 This application was generated using JHipster 5.8.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.2](https://www.jhipster.tech/documentation-archive/v5.8.2).
